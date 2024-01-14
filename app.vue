@@ -1,5 +1,5 @@
 <template>
-  <div class="container p-10">
+  <div class="container min-w-full p-10">
     <NavigationBar />
     <NuxtPage />
   </div>
